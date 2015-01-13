@@ -1,5 +1,3 @@
 language: objective-c
-xcode_project: TestProject.xcodeproj
-xcode_scheme: TestProject
-xcode_sdk: iphonesimulaotr
+script: - make
 
